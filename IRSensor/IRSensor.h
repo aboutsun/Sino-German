@@ -9,7 +9,7 @@ void spin_left(int time);
 void right();
 void spin_right(int time);
 void back(int time);
-void keysacn();
+
 
 
 
